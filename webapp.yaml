@@ -49,4 +49,4 @@ spec:
     - protocol: TCP
       port: 3000
       targetPort: 3000
-      NodePort: 30030
+      nodePort: 30030
